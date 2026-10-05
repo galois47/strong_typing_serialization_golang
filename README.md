@@ -1,4 +1,4 @@
-# strong_typing_serialization_golang
+# Strong Typing Serialization Demo
 
 A single-file Go program that round-trips a strongly typed struct tree through
 JSON: it serializes a `Company` value, deserializes it back into the same type,
